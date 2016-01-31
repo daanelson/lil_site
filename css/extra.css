@@ -1,0 +1,23 @@
+.row-buffer{
+	margin-top: 20px;
+}
+
+.add-font{
+	font-family: Arial;
+	font-size: 1.5em;
+}
+
+.img-rounded{
+	max-width: 400px;
+	max-height: 300px;
+}
+
+.silly-logos{
+	max-width: 32px;
+	max-height: 32px;
+}
+
+/*in case i feel like messing with this
+body{
+	background-color: #FFFFFF !important;
+}*/
